@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="VH1Classic.eu" tvg-logo="VH1 CLASSIC.png",VH1 CLASSIC
+http://live.tvplayerlatino.com/lista_remota/src1/KW2YQ.m3u8
+#EXTINF:-1 tvg-id="vh1-europe" tvg-name="vh1-europe" tvg-logo="vh1-europe.png",VH1 Europe
+http://151.80.115.8:8080/live/y9wBLcRW6q/CdlIe5ToDI/1.m3u8
+#EXTINF:-1 tvg-id="MTV Dance" tvg-name="MTV Dance" tvg-logo="mtvdance.png",MTV Dance
+http://92.50.181.6/tv/1280/index.m3u8
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="mtvhits.png",MTV Hits
+http://92.50.181.6/tv/1278/index.m3u8
+#EXTINF:-1 tvg-id="MTVLiveHD.uk" tvg-name="MTV Live" tvg-logo="mtvlive.png",MTV Live
+http://bit.do/cd4x8
+#EXTINF:-1 tvg-id="MTV Rocks" tvg-name="MTV Rocks" tvg-logo="mtvrocks.png",MTV Rocks
+http://92.50.181.6/tv/1279/index.m3u8
+#EXTINF:-1 tvg-id="Magic.uk" tvg-name="Magic" tvg-logo="magic.png",Magic
+http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8
+#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang" tvg-logo="kerrang.png",Kerrang
+http://csm-e.tm.yospace.com/csm/live/78581309.m3u8
+#EXTINF:-1 tvg-id="Kiss.uk" tvg-name="Kiss" tvg-logo="kiss.png",Kiss
+http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8
+#EXTINF:-1 tvg-id="HeartTV.uk" tvg-name="Heart Tv" tvg-logo="hearttv.png",Heart Tv
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8
+#EXTINF:-1 tvg-id="ChilledTV.uk" tvg-name="Chilled" tvg-logo="chilled.png",Chilled
+http://rrr.sz.xlcdn.com/?account=AATW&file=CHIL_1BR&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland" tvg-logo="clubland.png",Clubland
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtvnew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 tvg-id="CapitalTV.uk" tvg-logo="Capital Tv.png" ,Capital Tv 
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:-1 tvg-id="TheBox.uk" tvg-logo="thebox.png" ,The Box
+http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
+#EXTINF:-1 tvg-id="HeatTV.uk" tvg-logo="boxupfront.png",Box upfront
+http://csm-e.cds1.yospace.com/csm/live/78581152.m3u8
+#EXTINF:-1 tvg-id="SmashHits.uk" tvg-name="Box Hits" tvg-logo="snashhits.png",Box Hits
+http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8
+#EXTINF:-1 tvg-id="ChannelAka.uk" tvg-name="CHANNEL Aka" tvg-logo="channelaka.png",Aka
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 tvg-id="Viva.uk" tvg-name="Viva" tvg-logo="viva.png",Viva
+http://s18.cdn.tvcatchup.com/viva_adp.m3u8?clientKey=22ffa07fea520a405afd1564677a90dd-MTQ3MjE2MTkzNA==&channelid=37&device=web&channel=37&uuid=57b9fc939917d
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="4Music" tvg-logo="4music.png",4Music
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+#EXTINF:-1 tvg-id="NOWMusic.uk" tvg-name="Now Thats What I Call Music" tvg-logo="nowmusic.png",Now Thats What I Call Music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 tvg-id="GoldTV.svn" tvg-name="GoldTV" tvg-logo="GoldTV.png",Gold Tv
+http://cdn.magictvbox.eu:8080/goldtv/720p.m3u8
+#EXTINF:-1 tvg-id="Virgintv.us" tvg-name="Virgintv" tvg-logo="Virgintv.png",Virgin Tv
+http://tv.105.net:1935/live/virgin1/playlist.m3u8
+#EXTINF:-1,VEVO MUSIC 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,VEVO MUSIC 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,VEVO MUSIC 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
